@@ -1,0 +1,5 @@
+---
+- hosts: base
+  sudo: yes
+  roles:
+    - user
