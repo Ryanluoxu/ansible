@@ -1,6 +1,6 @@
 # ansible
 
-source:[ansible tutorial](https://serversforhackers.com/c/an-ansible-tutorial)
+source: [ansible tutorial](https://serversforhackers.com/c/an-ansible-tutorial)
 
 ## inventory file
 /etc/ansible/hosts
